@@ -1,9 +1,0 @@
-DMCG20	12-24-20
-plugins/DMCG20/plugininfo.txt	https://github.com/jayhikari/DMCG20/blob/main/plugininfo.txt	1
-plugins/DMCG20/bot.jpg	https://github.com/jayhikari/DMCG20/blob/main/bot.jpg	1
-plugins/DMCG20/sets/carddata.txt	https://github.com/jayhikari/DMCG20/blob/main/carddata.txt	2
-plugins/DMCG20/sets/setimages/general/cardback.jpg	https://github.com/jayhikari/DMCG20/blob/main/cardback.jpg	2
-plugins/DMCG20/sets/setimages/general/spawned.jpg	https://github.com/jayhikari/DMCG20/blob/main/spawned.JPG	2
-
-CardGeneralURLs:
-https://github.com/jayhikari/DMCG20/
