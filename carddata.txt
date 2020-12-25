@@ -1,0 +1,23 @@
+Name	Set	ImageFile	Card Number	Color	Play Cost	Digivolve Cost	Type/Level	DP	Keywords	Abilities	Inherited Ability
+Koromon	St1	koroSt1-01	St1-01	Red			Digi-Egg		In-Training/Lesser		[Your Turn] While this Digimon has 4 or more digivolution cards, it gets +1000 DP
+Biyomon	St1	biyoSt1-02	St1-02	Red	2	Red 0	Lv. 3	3000	Rookie / Vaccine / Bird		-
+Agumon	St1	aguSt1-03	St1-03	Red	3	Red 0	Lv. 3	2000	Rookie / Vaccine / Reptile		[Your Turn] This Digimon gets +1000 DP.
+Dracomon	St1	dracoSt1-04	St1-04	Red	3	Red 0	Lv. 3	4000	Rookie / Data / Dragon		-
+Birdramon	St1	birdraSt1-05	St1-05	Red	4	Red 2	Lv. 4	5000	Champion / Vaccine / Giant Bird		-
+Coredramon	St1	coredraSt1-06	St1-06	Red	5	Red 2	Lv. 4	6000	Champion / Virus / Dragon	"[Blocker] (When an opponent's Digimon attacks, you may suspend this Digimon to force the opponent to attack it instead.)
+[When Attacking] Lose 2 Memory."	-
+Greymon	St1	greySt1-07	St1-07	Red	5	Red 2	Lv. 4	4000	Champion / Vaccine / Dinosaur		[Security Attack +1] (This Digimon checks 1 additional security card.)
+Garudamon	St1	garudaSt1-08	St1-08	Red	6	Red 3	Lv. 5	7000	Ultimate / Vaccine / Birdkin	[When Digivolving] 1 of your Digimon gets +3000 DP for the turn.	-
+MetalGreymon	St1	metalgreySt1-09	St1-09	Red	7	Red 3	Lv. 5	7000	Ultimate / Vaccine / Cyborg		[Your Turn] When this Digimon is blocked, gain 3 memory.
+Phoenixmon	St1	phoenixSt1-10	St1-10	Red	10	Red 2	Lv. 6	12000	Mega / Vaccine / Holy Beast		
+WarGreymon	St1	wargreySt1-11	St1-11	Red	12	Red 4	Lv. 6	12000	Mega / Vaccine / Dragonkin	[Your Turn] For every 2 digivolution cards this Digimon has, it gains “[Security Attack +1] (This Digimon checks 1 additional security card.)”	
+Tai Kamiya	St1	taiSt1-12	St1-12	Red	2		Tamer			"[Your Turn] All of your Digimon get +1000 DP.
+[Security] Play this card without paying its memory cost."	
+Shadow Wing	St1	optionSt1-13	St1-13	Red	1		Option			"[Main] 1 of your Digimon gets +3000 DP for the turn.
+[Security] All of your Digimon gain “[Security Attack +1] (This Digimon checks 1 additional security card)” until the end of your next turn."	
+Starlight Explosion	St1	optionST1-14	St1-14	Red	2		Option			"[Main] All of your Security Digimon get +7000 DP until the end of your opponent's next turn.
+[Security] All of your Security Digimon get +7000 DP for the turn."	
+Giga Destroyer	St1	optionSt1-15	St1-15	Red	6		Option			"[Main] Delete up to 2 of your opponent's Digimon with 4000 DP or less.
+[Security] Activate this card's [Main] effect."	
+Gaia Force	St1	optionSt1-16	St1-16	Red	8		Option			"[Main] Delete 1 of your opponent's Digimon.
+[Security] Activate this card's [Main] effect."	
